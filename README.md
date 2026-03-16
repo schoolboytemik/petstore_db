@@ -63,4 +63,4 @@ docs/ - other documentation and analysis
 
 The diagram shows a possible Data Vault modeling approach derived from the operational relational schema of the Petshop database.
 
-![Data Vault scheme](docs/data_vault.png)
+![Data Vault scheme](docs/images/data_vault.png)

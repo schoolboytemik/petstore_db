@@ -58,3 +58,9 @@ docs/ - other documentation and analysis
 ## Relational DB Scheme
 
 ![Relational DB Scheme](docs/images/rdb_scheme.png)
+
+## Data Vault Concept
+
+The diagram shows a possible Data Vault modeling approach derived from the operational relational schema of the Petshop database.
+
+![Data Vault scheme](docs/data_vault.png)
